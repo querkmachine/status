@@ -1,6 +1,7 @@
 # Change these first
 owner: querkmachine # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+delay: 2000 # Wait 2 seconds between tests
 
 sites:
   # Main things
@@ -13,26 +14,38 @@ sites:
   # Side projects
   - name: bird.horse
     url: https://bird.horse
+  - name: BW
+    url: $BW_URL
+  - name: BW Gallery
+    url: $BW_URL_GALLERY
+  - name: BW Stories 
+    url: $BW_URL_STORIES
   - name: bronies.wiki
     url: https://bronies.wiki
   - name: Darn Blimps
     url: https://darnblimps.com
+  - name: Encyclopedia Robotica
+    url: https://encyclopediarobotica.org
   - name: Kimgur
     url: https://kimgur.com
   - name: placeholder.rocks
     url: https://placeholder.rocks
   - name: placeponi.es
     url: https://placeponi.es
-  - name: Encyclopedia Robotica
-    url: https://encyclopediarobotica.org
+  - name: Projects archive
+    url: https://projects.berly.kim
+  - name: The Software Bundle
+    url: https://bundle.software
+  - name: Twitter archive
+    url: https://tweets.beeps.website
   # Redirects
-  - name: berly.kim
+  - name: "[REDIR] berly.kim"
     url: https://berly.kim
-  - name: furrified.com
+  - name: "[REDIR] furrified.com"
     url: https://furrified.com
-  - name: greysadventures.com
+  - name: "[REDIR] greysadventures.com"
     url: https://greysadventures.com
-  - name: robat.space
+  - name: "[REDIR] robat.space"
     url: https://robat.space
 
 status-website:
