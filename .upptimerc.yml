@@ -20,8 +20,6 @@ sites:
     url: $BW_URL_GALLERY
   - name: BW Stories 
     url: $BW_URL_STORIES
-  - name: bronies.wiki
-    url: https://bronies.wiki
   - name: Darn Blimps
     url: https://darnblimps.com
   - name: Encyclopedia Robotica
