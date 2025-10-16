@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 1236,
+      "2025-10-16": 1286,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -168,19 +168,19 @@
     "url": "https://encyclopediarobotica.org",
     "icon": "https://icons.duckduckgo.com/ip3/encyclopediarobotica.org.ico",
     "slug": "encyclopedia-robotica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 691,
-    "timeWeek": 697,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 644,
+    "timeDay": 685,
+    "timeWeek": 694,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2025-10-16": 1
+      "2025-10-16": 49
     }
   },
   {
