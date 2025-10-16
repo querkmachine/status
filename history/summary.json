@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 98,
+      "2025-10-16": 1236,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -168,10 +168,10 @@
     "url": "https://encyclopediarobotica.org",
     "icon": "https://icons.duckduckgo.com/ip3/encyclopediarobotica.org.ico",
     "slug": "encyclopedia-robotica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
@@ -179,7 +179,9 @@
     "timeWeek": 697,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-16": 1
+    }
   },
   {
     "name": "Kimgur",
