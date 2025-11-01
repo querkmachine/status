@@ -16,8 +16,6 @@ sites:
     url: https://bird.horse
   - name: BW
     url: $BW_URL
-  - name: BW Gallery
-    url: $BW_URL_GALLERY
   - name: BW Stories 
     url: $BW_URL_STORIES
   - name: Darn Blimps
