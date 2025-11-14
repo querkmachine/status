@@ -131,14 +131,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/encyclopediarobotica.org.ico",
     "slug": "encyclopedia-robotica",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 1295,
     "timeDay": 565,
-    "timeWeek": 2293,
+    "timeWeek": 2608,
     "timeMonth": 1597,
     "timeYear": 1295,
     "dailyMinutesDown": {
@@ -314,10 +314,10 @@
     "url": "https://robat.space",
     "icon": "https://icons.duckduckgo.com/ip3/robat.space.ico",
     "slug": "redir-robat-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 1271,
@@ -326,6 +326,7 @@
     "timeMonth": 1288,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2025-11-14": 0,
       "2025-11-12": 26
     }
   }
