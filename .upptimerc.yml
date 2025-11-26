@@ -20,6 +20,8 @@ sites:
     url: $BW_URL_STORIES
   - name: Darn Blimps
     url: https://darnblimps.com
+  - name: Emby
+    url: $EMBY_URL
   - name: Encyclopedia Robotica
     url: https://encyclopediarobotica.org
   - name: Kimgur
