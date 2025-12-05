@@ -130,10 +130,10 @@
     "url": "$EMBY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1290,
@@ -141,7 +141,9 @@
     "timeWeek": 930,
     "timeMonth": 1290,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 1
+    }
   },
   {
     "name": "Encyclopedia Robotica",
