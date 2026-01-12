@@ -133,18 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "85.69%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "77.98%",
-    "uptimeYear": "85.69%",
+    "uptime": "85.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "78.00%",
+    "uptimeYear": "85.75%",
     "time": 1002,
     "timeDay": 855,
     "timeWeek": 840,
     "timeMonth": 909,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2026-01-12": 8,
       "2025-12-30": 595,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -188,28 +187,26 @@
     "slug": "kimgur",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
     "timeDay": 660,
     "timeWeek": 707,
     "timeMonth": 744,
     "timeYear": 753,
-    "dailyMinutesDown": {
-      "2026-01-12": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "placeholder.rocks",
     "url": "https://placeholder.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/placeholder.rocks.ico",
     "slug": "placeholder-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
@@ -217,17 +214,19 @@
     "timeWeek": 817,
     "timeMonth": 966,
     "timeYear": 985,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 2
+    }
   },
   {
     "name": "placeponi.es",
     "url": "https://placeponi.es",
     "icon": "https://icons.duckduckgo.com/ip3/placeponi.es.ico",
     "slug": "placeponi-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
@@ -235,7 +234,9 @@
     "timeWeek": 759,
     "timeMonth": 755,
     "timeYear": 784,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 1
+    }
   },
   {
     "name": "Projects archive",
