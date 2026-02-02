@@ -5,45 +5,55 @@ delay: 2000 # Wait 2 seconds between tests
 
 sites:
   # Main things
-  - name: beeps.website
+  - name: "[MAIN] beeps.website"
     url: https://beeps.website
-  - name: beeps.gay
+  - name: "[MAIN] beeps.gay"
     url: https://beeps.gay
-  - name: social.beeps.gay
+  - name: "[MAIN] social.beeps.gay"
     url: https://social.beeps.gay
+    
   # Side projects
-  - name: bird.horse
-    url: https://bird.horse
-  - name: BW
+  - name: "[PROJECT] BW"
     url: $BW_URL
-  - name: BW Stories 
+  - name: "[PROJECT] BW Stories "
     url: $BW_URL_STORIES
-  - name: Darn Blimps
-    url: https://darnblimps.com
-  - name: Emby
-    url: $EMBY_URL
-  - name: Encyclopedia Robotica
+  - name: "[PROJECT] Encyclopedia Robotica"
     url: https://encyclopediarobotica.org
-  - name: Kimgur
-    url: https://kimgur.com
-  - name: placeholder.rocks
+  - name: "[PROJECT] placeholder.rocks"
     url: https://placeholder.rocks
-  - name: placeponi.es
+  - name: "[PROJECT] placeponi.es"
     url: https://placeponi.es
-  - name: Projects archive
-    url: https://projects.berly.kim
-  - name: The Software Bundle
+  - name: "[PROJECT] The Software Bundle"
     url: https://bundle.software
-  - name: Twitter archive
+
+  # Placeholder pages and domains
+  - name: "[PLACEHOLDER] bird.horse"
+    url: https://bird.horse
+  - name: "[PLACEHOLDER] bronies.wiki"
+    url: http://bronies.wiki
+
+  # Archives
+  - name: "[ARCHIVE] Darn Blimps"
+    url: https://darnblimps.com
+  - name: "[ARCHIVE] Emby"
+    url: $EMBY_URL
+  - name: "[ARCHIVE] Public file store"
+    url: https://files.beeps.gay/
+  - name: "[ARCHIVE] Kimgur"
+    url: https://kimgur.com
+  - name: "[ARCHIVE] Projects archive"
+    url: https://projects.berly.kim
+  - name: "[ARCHIVE] Twitter archive"
     url: https://tweets.beeps.website
+    
   # Redirects
-  - name: "[REDIR] berly.kim"
+  - name: "[REDIRECT] berly.kim"
     url: https://berly.kim
-  - name: "[REDIR] furrified.com"
+  - name: "[REDIRECT] furrified.com"
     url: https://furrified.com
-  - name: "[REDIR] greysadventures.com"
+  - name: "[REDIRECT] greysadventures.com"
     url: https://greysadventures.com
-  - name: "[REDIR] robat.space"
+  - name: "[REDIRECT] robat.space"
     url: https://robat.space
 
 status-website:
