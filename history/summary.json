@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beeps.website.ico",
     "slug": "main-beeps-website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.84%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 882,
     "timeDay": 918,
     "timeWeek": 810,
     "timeMonth": 882,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2026-03-01": 6
+      "2026-03-01": 64
     }
   },
   {
@@ -78,18 +78,20 @@
     "url": "$BW_URL_STORIES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-bw-stories",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2295,
     "timeDay": 2343,
     "timeWeek": 2109,
     "timeMonth": 2295,
     "timeYear": 2295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 11
+    }
   },
   {
     "name": "[PROJECT] Encyclopedia Robotica",
@@ -114,36 +116,40 @@
     "url": "https://placeholder.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/placeholder.rocks.ico",
     "slug": "project-placeholder-rocks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 796,
     "timeDay": 814,
     "timeWeek": 717,
     "timeMonth": 796,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 10
+    }
   },
   {
     "name": "[PROJECT] placeponi.es",
     "url": "https://placeponi.es",
     "icon": "https://icons.duckduckgo.com/ip3/placeponi.es.ico",
     "slug": "project-placeponi-es",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 758,
     "timeDay": 995,
     "timeWeek": 719,
     "timeMonth": 758,
     "timeYear": 758,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 8
+    }
   },
   {
     "name": "[PROJECT] The Software Bundle",
@@ -223,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-emby",
     "status": "down",
-    "uptime": "32.56%",
+    "uptime": "32.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.56%",
-    "uptimeYear": "32.56%",
+    "uptimeMonth": "32.51%",
+    "uptimeYear": "32.51%",
     "time": 896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 896,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2026-03-01": 1178,
+      "2026-03-01": 1236,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -278,36 +284,40 @@
     "url": "https://kimgur.com",
     "icon": "https://icons.duckduckgo.com/ip3/kimgur.com.ico",
     "slug": "archive-kimgur",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 721,
     "timeDay": 816,
     "timeWeek": 694,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 6
+    }
   },
   {
     "name": "[ARCHIVE] Projects archive",
     "url": "https://projects.berly.kim",
     "icon": "https://icons.duckduckgo.com/ip3/projects.berly.kim.ico",
     "slug": "archive-projects-archive",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1204,
     "timeDay": 1374,
     "timeWeek": 1156,
     "timeMonth": 1204,
     "timeYear": 1204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 5
+    }
   },
   {
     "name": "[ARCHIVE] Twitter archive",
@@ -333,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/berly.kim.ico",
     "slug": "redirect-berly-kim",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.76%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1430,
     "timeDay": 1355,
     "timeWeek": 1406,
     "timeMonth": 1430,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2026-03-01": 3,
+      "2026-03-01": 62,
       "2026-02-15": 34
     }
   },
@@ -354,18 +364,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/furrified.com.ico",
     "slug": "redirect-furrified-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 934,
     "timeDay": 962,
     "timeWeek": 903,
     "timeMonth": 934,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2026-03-01": 2
+      "2026-03-01": 60
     }
   },
   {
@@ -374,18 +384,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/greysadventures.com.ico",
     "slug": "redirect-greysadventures-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 945,
     "timeDay": 999,
     "timeWeek": 907,
     "timeMonth": 945,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 58
     }
   },
   {
