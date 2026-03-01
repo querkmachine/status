@@ -4,18 +4,20 @@
     "url": "https://beeps.website",
     "icon": "https://icons.duckduckgo.com/ip3/beeps.website.ico",
     "slug": "main-beeps-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 882,
     "timeDay": 918,
     "timeWeek": 810,
     "timeMonth": 882,
     "timeYear": 882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 6
+    }
   },
   {
     "name": "[MAIN] beeps.gay",
@@ -221,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-emby",
     "status": "down",
-    "uptime": "33.43%",
+    "uptime": "32.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.43%",
-    "uptimeYear": "33.43%",
+    "uptimeMonth": "32.56%",
+    "uptimeYear": "32.56%",
     "time": 896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 896,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2026-03-01": 152,
+      "2026-03-01": 1178,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -330,18 +332,19 @@
     "url": "https://berly.kim",
     "icon": "https://icons.duckduckgo.com/ip3/berly.kim.ico",
     "slug": "redirect-berly-kim",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1430,
     "timeDay": 1355,
     "timeWeek": 1406,
     "timeMonth": 1430,
     "timeYear": 1430,
     "dailyMinutesDown": {
+      "2026-03-01": 3,
       "2026-02-15": 34
     }
   },
@@ -350,10 +353,10 @@
     "url": "https://furrified.com",
     "icon": "https://icons.duckduckgo.com/ip3/furrified.com.ico",
     "slug": "redirect-furrified-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 934,
@@ -361,16 +364,18 @@
     "timeWeek": 903,
     "timeMonth": 934,
     "timeYear": 934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 2
+    }
   },
   {
     "name": "[REDIRECT] greysadventures.com",
     "url": "https://greysadventures.com",
     "icon": "https://icons.duckduckgo.com/ip3/greysadventures.com.ico",
     "slug": "redirect-greysadventures-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -379,7 +384,9 @@
     "timeWeek": 907,
     "timeMonth": 945,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "[REDIRECT] robat.space",
