@@ -17,12 +17,16 @@ sites:
     url: $BW_URL
   - name: "[PROJECT] BW Stories "
     url: $BW_URL_STORIES
+  - name: "[PROJECT] Color Grid"
+    url: https://colors.beeps.gay
   - name: "[PROJECT] Encyclopedia Robotica"
     url: https://encyclopediarobotica.org
   - name: "[PROJECT] placeholder.rocks"
     url: https://placeholder.rocks
   - name: "[PROJECT] placeponi.es"
     url: https://placeponi.es
+  - name: "[PROJECT] Roundtable"
+    url: $ROUNDTABLE
   - name: "[PROJECT] The Software Bundle"
     url: https://bundle.software
 
