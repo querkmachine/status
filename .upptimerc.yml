@@ -13,6 +13,8 @@ sites:
     url: https://social.beeps.gay
     
   # Side projects
+  - name: "[PROJECT] BronyMeets.co.uk"
+    url: https://bronymeets.co.uk
   - name: "[PROJECT] BW"
     url: $BW_URL
   - name: "[PROJECT] BW Stories "
