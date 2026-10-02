@@ -13,14 +13,16 @@ sites:
     url: https://social.beeps.gay
     
   # Side projects
+  - name: "[PROJECT] Amphimorpho Webring"
+    url: https://noodle-r.ing
+  - name: "[PROJECT] Battenburg"
+    url: https://battenburg.app
   - name: "[PROJECT] BronyMeets.co.uk"
     url: https://bronymeets.co.uk
   - name: "[PROJECT] BW"
     url: $BW_URL
   - name: "[PROJECT] BW Stories "
     url: $BW_URL_STORIES
-  - name: "[PROJECT] Color Grid"
-    url: https://colors.beeps.gay
   - name: "[PROJECT] Encyclopedia Robotica"
     url: https://encyclopediarobotica.org
   - name: "[PROJECT] placeholder.rocks"
@@ -44,7 +46,7 @@ sites:
   - name: "[ARCHIVE] Emby"
     url: $EMBY_URL
   - name: "[ARCHIVE] Public file store"
-    url: https://files.beeps.gay/
+    url: https://files.beeps.gay
   - name: "[ARCHIVE] Kimgur"
     url: https://kimgur.com
   - name: "[ARCHIVE] Projects archive"
